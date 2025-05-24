@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İzzet Esenet</h1>
+<h1 align="center">Hi 👋, I'm İzzet Esener</h1>
 <h3 align="center">Software Engineering Student at Kocaeli University</h3>
 
 ---
