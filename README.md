@@ -7,25 +7,12 @@
 
 - 🎓 I'm currently studying **Software Engineering** at **Kocaeli University**  
 - 💻 I’m working on **full-stack development**, especially with **.NET Core** and **React/React Native**
-- 📊 I’m also interested in **Machine Learning**, **Data Science**, and **AI**
-- 🚀 Currently improving myself in **clean architecture**, **microservices**, and **cloud computing**
-- 📫 How to reach me: **[your email]** (optional)
+- 📊 I’m also interested in **Machine Learning**,  and **AI**
+
+
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/izzetesenet/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/izzetesenet">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
