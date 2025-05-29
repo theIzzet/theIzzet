@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently studying **Software Engineering** at **Kocaeli University**  
-- 💻 I’m working on **full-stack development**, especially with **.NET Core** and **React/React Native**
+- 💻 I’m working on **full-stack development**, especially with **.NET Core** and **React**
 - 📊 I’m also interested in **Machine Learning**,  and **AI**
 
 
