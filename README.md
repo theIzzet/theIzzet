@@ -14,8 +14,9 @@
 ---
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/izzet-esener-545a68219" target="_blank"> Linkedln Hesabı
+  <a href="https://linkedin.com/in/izzet-esener-545a68219" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+    Linkedln Hesabı
   </a>
   
 </p>
